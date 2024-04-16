@@ -1,0 +1,19 @@
+.red {
+    background-color: #ff7c87;
+    font-size: 18px;
+}
+
+#num2 {
+    font-size: 30px;
+    color: blue;
+}
+
+.red.cooler {
+    font-size: 25px;
+}
+
+#num4 {
+    font-size: 23px;
+    background-color: #4eff5e;
+    font-weight: bolder;
+}
